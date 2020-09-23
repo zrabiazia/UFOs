@@ -5,7 +5,8 @@ Dana wants to provide a more in-depth analysis of UFO sightings by allowing user
 Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
 
 Results:
-search by date: 
+search by date:
+![](https://user-images.githubusercontent.com/67460581/94047668-a0e90d80-fd8f-11ea-970e-1e6e3e4060b1.PNG)
 Search by date will show all the results by date which shows all dates, cities, states, countries, shapes and durations.
 
 Search by dates and city:
