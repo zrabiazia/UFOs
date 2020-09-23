@@ -8,13 +8,16 @@ Results:
 search by date: 
 Search by date will show all the results by date which shows all dates, cities, states, countries, shapes and durations.
 
-Search by dates and city: 
+Search by dates and city:
+![](https://user-images.githubusercontent.com/67460581/94047853-e73e6c80-fd8f-11ea-81ac-f5f4cd80efef.PNG)
 The search with cities and dates will show results only that are related to both categories.
 
-Search with date and state: 
+Search with date and state:
+![](https://user-images.githubusercontent.com/67460581/94047904-f4f3f200-fd8f-11ea-95b5-987bdfbf9137.PNG)
 The date and state search will only show the results which indicates the date and state.
 
-Search by date and country: 
+Search by date and country:
+![](https://user-images.githubusercontent.com/67460581/94047886-f02f3e00-fd8f-11ea-92c4-8f8511027fb3.PNG)
 This search categories only shows by date and country.
 
 Summary:
