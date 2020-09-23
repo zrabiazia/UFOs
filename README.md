@@ -1,4 +1,4 @@
-# UFOs analysis
+# UFOs Analysis
 Analysis of UFOs
 Overview:
 Dana wants to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, need to add table filters for city, state, country and shape. I will be creating a dynamic table with filters that will react to user input, and then place the table into a HTML file to view and read easily by her viewers.
